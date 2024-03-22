@@ -1,0 +1,14 @@
+title {
+    font-size: large;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 27, 50;
+    background-color: rgb(9, 66, 66);
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+  }
